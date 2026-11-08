@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fate & Stars offers an online tarot reading platform where users can draw cards, reflect on personalized interpretations, and save their readings for future reference. The service provides a quiet, contemplative space with multilingual support, social sharing options, and a library of card meanings, aiming to blend mystical insight with modern web experience.
+Fate & Stars provides an online tarot reading platform, offering users the ability to draw tarot cards, receive interpretations, and reflect on personal questions. The service includes a library of card meanings, a quiet space for contemplation, and the option to revisit readings after three days. It aims to blend mystical guidance with a user-friendly web experience, supporting multiple languages and accessible design.
 
-**Areas:** Company · Tarot · Astrology · Spirituality · OnlineTools · Wellness
+**Areas:** Company · Tarot · Astrology · Spirituality · OnlineService · Wellness
 
 ## Fate & Stars on APIs.io
 
@@ -93,14 +93,13 @@ Published plans, tiers and prices.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://fateandstars.com/)
-- [Documentation](https://fateandstars.com/faq)
 - [Pricing](https://fateandstars.com/pricing)
 - [Terms of service](https://fateandstars.com/terms-of-service)
 - [Privacy policy](https://fateandstars.com/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 16.6** — emerging · rubric 0.27.0 · scored 2026-11-07
+**Kin Score 14.7** — emerging · rubric 0.27.0 · scored 2026-11-08
 
 | Facet | Score |
 |---|---|
@@ -108,7 +107,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 9.5 |
+| Developer ergonomics | 0.0 |
 | Access clarity | 50.5 |
 
 **Agent readiness 3.1** — human-only
